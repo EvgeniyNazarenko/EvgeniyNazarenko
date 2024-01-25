@@ -1,5 +1,5 @@
 - 👋 Hello everyone, my name is Evgeny Nazarenko. I am an aspiring Data Science specialist. Not so long ago, I completed the Yandex Practicum educational course in this area and am now looking for my first job.
-- 📫 How to reach me 
+
 
 
 <!---
